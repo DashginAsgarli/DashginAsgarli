@@ -10,13 +10,13 @@ I specialize in building modern, responsive, and scalable web applications using
 
 ## 🎓 Education
 
-**Azerbaijan State Oil and Industry University** – B.S. in Computer Engineering (2023–2027) 
+**Azerbaijan State Oil and Industry University – B.S. in Computer Engineering (2023–2027)**
 
 ---
 
 ## 💼 Experience
 
-**Frontend Development Program – Code For Future & Algorithmics**  
+**Code For Future & Algorithmics – Frontend Development**  
 Completed an intensive 4-month frontend development program focused on React and modern UI practices.  
 Built responsive projects and worked on real-world development simulations.
 
