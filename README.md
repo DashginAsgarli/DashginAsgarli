@@ -1,4 +1,6 @@
-# Hi, I'm Dashgin Asgarli 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00C2FF&center=false&vCenter=true&width=650&lines=Hi,+I'm+Dashgin+Asgarli&repeat=false" />
+</p>
 
 ### 💻 Full Stack Web Developer | Computer Engineering Student
 
@@ -14,7 +16,7 @@ I specialize in building modern, responsive, and scalable web applications using
 
 ## 💼 Experience
 
-**Frontend Development Program – Code for Future & Algorithmics**  
+**Frontend Development Program – Code For Future & Algorithmics**  
 Completed an intensive 4-month frontend development program focused on React and modern UI practices.  
 Built responsive projects and worked on real-world development simulations.
 
@@ -31,6 +33,7 @@ Built responsive projects and worked on real-world development simulations.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Database
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -42,10 +45,12 @@ Built responsive projects and worked on real-world development simulations.
 
 ---
 
-
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/dashgin-asgarli?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [Email](dashqinasgarli@gmail.com) | [Portfolio](https://inspiring-lamington-c4a8aa.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dashgin-asgarli?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashqinasgarli@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://inspiring-lamington-c4a8aa.netlify.app/)
+
 
 ---
 
