@@ -45,7 +45,7 @@ Built responsive projects and worked on real-world development simulations.
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) | [Email](your-email@example.com) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/dashgin-asgarli?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [Email](dashqinasgarli@gmail.com) | [Portfolio](https://inspiring-lamington-c4a8aa.netlify.app/)
 
 ---
 
