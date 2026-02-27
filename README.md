@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00C2FF&center=false&vCenter=true&width=650&lines=Hi,+I'm+Dashgin+Asgarli&repeat=false" />
 </p>
 
-### 💻 Full Stack Web Developer | Computer Engineering Student
+### 💻 Full Stack Web Developer
 
 I specialize in building modern, responsive, and scalable web applications using React and Python. Passionate about clean code, performance optimization, and creating user-centered digital solutions. Currently improving my backend development and software architecture skills.
 
