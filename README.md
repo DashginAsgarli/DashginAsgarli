@@ -8,9 +8,9 @@
 
 I specialize in building modern, responsive, and scalable web applications using React and Python. Passionate about clean code, performance optimization, and creating user-centered digital solutions. Currently improving my backend development and software architecture skills.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://inspiring-lamington-c4a8aa.netlify.app/)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff&style=for-the-badge)
-
 ---
 
 ## 🎓 Education
@@ -44,14 +44,6 @@ Completed an intensive 4-month frontend development program focused on React and
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark" alt="GitHub Streak" />
 </p>
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dashgin-asgarli?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashqinasgarli@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://inspiring-lamington-c4a8aa.netlify.app/)
