@@ -1,16 +1,17 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00C2FF&center=false&vCenter=true&width=650&lines=Hi,+I'm+Dashgin+Asgarli&repeat=false" />
+<h1 align="center">Hi 👋, I'm Dashgin Asgarli</h1>
+<h3 align="center">💻 Full Stack Web Developer</h3>
+
+
+
+<p align="center">
+  <a href="https://inspiring-lamington-c4a8aa.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-green?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff&style=for-the-badge" />
 </p>
 
----
 
-## 💻 Full Stack Web Developer
-
-I specialize in building modern, responsive, and scalable web applications using React and Python. Passionate about clean code, performance optimization, and creating user-centered digital solutions. Currently improving my backend development and software architecture skills.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://inspiring-lamington-c4a8aa.netlify.app/)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff&style=for-the-badge)
 ---
 
 ## 🎓 Education
