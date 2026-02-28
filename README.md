@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dashgin Asgarli</h1>
 <h3 align="center">💻 Full Stack Web Developer</h3>
-
-
+<p align="center">Full Stack Developer specializing in modern, responsive, and scalable web applications with React and Python. I focus on writing clean, maintainable code and optimizing performance to deliver seamless user experiences. Currently deepening my expertise in backend systems and software architecture.</p>
 
 <p align="center">
   <a href="https://inspiring-lamington-c4a8aa.netlify.app/">
@@ -12,22 +11,25 @@
 </p>
 
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 🎓 Education
 
-### **Azerbaijan State Oil and Industry University – B.S. in Computer Engineering (2023 - 2027)**
+- **Azerbaijan State Oil and Industry University – B.S. in Computer Engineering (2023 - 2027)**
 
-### **SABAH Groups – Computer Engineering (2024 - 2027)**
+- **SABAH Groups – Computer Engineering (2024 - 2027)**
 
 
 ---
 
 ## 💼 Experience
 
-### **Code For Future & Algorithmics – Frontend Development**
-
-Completed an intensive 4-month frontend development program focused on React and modern UI/UX practices. Built fully responsive web projects using React, JavaScript, and modern CSS frameworks. Gained hands-on experience through real-world development simulations and team-based projects.
+ - **Code For Future & Algorithmics – Frontend Development (Oct 2025 – Jan 2026)**
 
 ---
 
@@ -43,8 +45,7 @@ Completed an intensive 4-month frontend development program focused on React and
 ### Tools & Deployment
 [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark)](https://skillicons.dev)
 
----
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark" alt="GitHub Streak" />
-</p>
+
+
+
