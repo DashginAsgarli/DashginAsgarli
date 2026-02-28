@@ -59,10 +59,10 @@ Built responsive projects and worked on real-world development simulations.
 
 ---
 
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=tokyonight)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DashginAsgarli&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DashginAsgarli&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DashginAsgarli&show_icons=true&theme=tokyonight)
