@@ -66,4 +66,3 @@ Built responsive projects and worked on real-world development simulations.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DashginAsgarli&theme=tokyonight)
 
-![Snake](https://raw.githubusercontent.com/DashginAsgarli/DashginAsgarli/output/github-contribution-grid-snake-dark.svg)
