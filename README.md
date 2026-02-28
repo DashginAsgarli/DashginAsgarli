@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 Full Stack Web Developer
+## 💻 Full Stack Web Developer
 
 I specialize in building modern, responsive, and scalable web applications using React and Python. Passionate about clean code, performance optimization, and creating user-centered digital solutions. Currently improving my backend development and software architecture skills.
 
@@ -15,15 +15,18 @@ I specialize in building modern, responsive, and scalable web applications using
 
 ## 🎓 Education
 
-**Azerbaijan State Oil and Industry University – B.S. in Computer Engineering (2023–2027)**
+### **Azerbaijan State Oil and Industry University – B.S. in Computer Engineering (2023 - 2027)**
+
+### **SABAH Groups – Computer Engineering (2024 - 2027)**
+
 
 ---
 
 ## 💼 Experience
 
-**Code For Future & Algorithmics – Frontend Development**
-Completed an intensive 4-month frontend development program focused on React and modern UI practices.
-Built responsive projects and worked on real-world development simulations.
+### **Code For Future & Algorithmics – Frontend Development**
+
+Completed an intensive 4-month frontend development program focused on React and modern UI/UX practices. Built fully responsive web projects using React, JavaScript, and modern CSS frameworks. Gained hands-on experience through real-world development simulations and team-based projects.
 
 ---
 
