@@ -6,6 +6,9 @@
 
 I specialize in building modern, responsive, and scalable web applications using React and Python. Passionate about clean code, performance optimization, and creating user-centered digital solutions. Currently improving my backend development and software architecture skills.
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff&style=for-the-badge)
+
 ---
 
 ## 🎓 Education
@@ -16,8 +19,8 @@ I specialize in building modern, responsive, and scalable web applications using
 
 ## 💼 Experience
 
-**Code For Future & Algorithmics – Frontend Development**  
-Completed an intensive 4-month frontend development program focused on React and modern UI practices.  
+**Code For Future & Algorithmics – Frontend Development**
+Completed an intensive 4-month frontend development program focused on React and modern UI practices.
 Built responsive projects and worked on real-world development simulations.
 
 ---
@@ -45,24 +48,23 @@ Built responsive projects and worked on real-world development simulations.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dashgin-asgarli?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashqinasgarli@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://inspiring-lamington-c4a8aa.netlify.app/)
 
-
 ---
 
 ### 💬 Personal Motto
-> “Coding is not just writing lines of code — it’s solving real-world problems.”
-
----
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DashginAsgarli&theme=tokyonight)
-
+> "Coding is not just writing lines of code — it's solving real-world problems."
