@@ -19,6 +19,9 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" />
+  <a href="https://wakatime.com/@59e7d53c-bb06-4c76-a48e-2f7ed7fed6d5" target="_blank">
+    <img src="https://wakatime.com/badge/user/59e7d53c-bb06-4c76-a48e-2f7ed7fed6d5.svg" height="28" />
+  </a>
 </p>
 
 ---
@@ -30,7 +33,9 @@
   <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark&hide_border=true" height="170" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=github_dark" height="160" />
   <!-- <img src="https://wakatime.com/share/@dashginasgarli/5751a4cd-fa1d-41dc-9479-4eb6d86e63f6.svg" width="600" /> -->
+  
 </p>
+
 
 ---
 
