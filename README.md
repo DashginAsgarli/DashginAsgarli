@@ -21,21 +21,14 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff&style=for-the-badge" />
-</p>
-
 ---
 
+## 📊 GitHub Stats
 
-
-
-
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark" alt="GitHub Streak" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashginAsgarli&theme=github_dark" height="165" />
+  <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark&hide_border=true" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=github_dark" height="165" /> -->
 </p>
 
 ---
