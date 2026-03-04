@@ -25,10 +25,11 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashginAsgarli&theme=github_dark" height="165" />
-  <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark&hide_border=true" />
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=github_dark" height="165" /> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashginAsgarli&theme=github_dark" height="160" />
+  <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=github_dark" height="160" />
+  <!-- <img src="https://wakatime.com/share/@dashginasgarli/5751a4cd-fa1d-41dc-9479-4eb6d86e63f6.svg" width="600" /> -->
 </p>
 
 ---
