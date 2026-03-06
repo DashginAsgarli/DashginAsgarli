@@ -62,15 +62,18 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashginAsgarli&theme=github_dark" height="165" />
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashginAsgarli&theme=github_dark" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=github_dark" height="165" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff&style=for-the-badge&label=Profile+Views" />
-  <br/><br/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=DashginAsgarli&color=00c2ff&style=for-the-badge&label=Profile+Views" /> -->
+  <!-- <br/><br/> -->
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </div>
 
