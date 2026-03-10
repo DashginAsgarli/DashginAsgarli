@@ -46,17 +46,11 @@
 </blockquote>
 <br>
 
+---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma&theme=dark)](https://skillicons.dev)
-
-### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,mysql&theme=dark)](https://skillicons.dev)
-
-### Tools & Deployment
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,python,mysql,git,github,vercel,netlify,vscode,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
