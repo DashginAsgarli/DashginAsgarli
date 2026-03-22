@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://inspiring-lamington-c4a8aa.netlify.app/" target="_blank">
+  <a href="https://silly-halva-cf1814.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/dashgin-asgarli" target="_blank">
