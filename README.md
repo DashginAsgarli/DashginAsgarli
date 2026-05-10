@@ -37,7 +37,7 @@
 
 ---
 
-## 🌐 Web Development
+## Web Development
 
 Full Stack Developer building modern, responsive, and scalable web applications. Focused on clean architecture, performance, and seamless user experience.
 
@@ -58,13 +58,11 @@ Full Stack Developer building modern, responsive, and scalable web applications.
 
 ---
 
-## 📊 Data Science
+## Data Science
 
 I work with data — from cleaning and exploration to building predictive models and visualizing insights. Bridging data science with real web products.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -83,22 +81,23 @@ I work with data — from cleaning and exploration to building predictive models
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<!-- Streak stats -->
 <img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" height="170" />
 
 <br/>
 
-<!-- General stats + productive time (NOT repo/language duplicates) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashginAsgarli&theme=github_dark" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DashginAsgarli&theme=github_dark&utcOffset=4" height="165" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashginAsgarli&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=github_dark" height="165" />
+</p>
 
 <br/>
 
-<!-- Activity graph — contribution heatmap over time -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DashginAsgarli&bg_color=0d1117&color=58A6FF&line=3FB950&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
+
+
