@@ -9,7 +9,7 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://dashginasgarli.dev" target="_blank">
+  <a href="https://silly-halva-cf1814.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5C5C?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/dashgin-asgarli" target="_blank">
