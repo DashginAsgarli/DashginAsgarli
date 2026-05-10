@@ -24,27 +24,6 @@
 </a>
 </p>
 
----
-
-## 🎓 Education
-
-<blockquote style="border-left: 5px solid #1f6feb; padding: 10px; margin: 10px 0;">
-  <h3>Azerbaijan State Oil and Industry University</h3>
-  <b>B.S. in Computer Engineering</b> | <code>2023 - 2027</code>
-</blockquote>
-
-<blockquote style="border-left: 5px solid #8957e5; padding: 10px; margin: 10px 0;">
-  <h3>SABAH Groups</h3>
-  <b>Computer Engineering</b> | <code>2024 - 2027</code>
-</blockquote>
-
-## 💼 Experience
-
-<blockquote style="border-left: 5px solid #238636; padding: 10px; margin: 10px 0;">
-  <h3>Code For Future & Algorithmics</h3>
-  <b>Frontend Development</b> | <code>Oct 2025 – Jan 2026</code>
-</blockquote>
-<br>
 
 ---
 
