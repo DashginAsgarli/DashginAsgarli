@@ -25,7 +25,6 @@
   <a href="https://wakatime.com/@59e7d53c-bb06-4c76-a48e-2f7ed7fed6d5" target="_blank">
     <img src="https://wakatime.com/badge/user/59e7d53c-bb06-4c76-a48e-2f7ed7fed6d5.svg?style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=DashginAsgarli&color=58A6FF&style=for-the-badge&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/DashginAsgarli?style=for-the-badge&color=3FB950&labelColor=238636&logo=github&label=Followers" />
 </p>
 
