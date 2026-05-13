@@ -7,7 +7,6 @@
 </a>
 
 <br/><br/>
-
 <p align="center">
   <a href="https://jovial-unicorn-4a4245.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5C5C?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -31,7 +30,6 @@
 <br/>
 
 *"First, solve the problem. Then, write the code."* — John Johnson
-
 </div>
 
 ---
