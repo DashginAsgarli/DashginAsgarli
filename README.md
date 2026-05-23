@@ -86,12 +86,6 @@ I work with data — from cleaning and exploration to building predictive models
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DashginAsgarli&theme=github_dark" height="165" />
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DashginAsgarli&theme=github_dark" height="165" /> -->
-</p>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DashginAsgarli&bg_color=0d1117&color=58A6FF&line=3FB950&point=ffffff&area=true&hide_border=true" width="100%" />
 
