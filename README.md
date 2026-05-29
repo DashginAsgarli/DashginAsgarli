@@ -18,13 +18,15 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-3FB950?style=for-the-badge&logo=checkmarx&logoColor=white" />
-</p>
 
-<p align="center">
   <a href="https://wakatime.com/@59e7d53c-bb06-4c76-a48e-2f7ed7fed6d5" target="_blank">
     <img src="https://wakatime.com/badge/user/59e7d53c-bb06-4c76-a48e-2f7ed7fed6d5.svg?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/github/followers/DashginAsgarli?style=for-the-badge&color=3FB950&labelColor=238636&logo=github&label=Followers" />
+</p>
+
+<p align="center">
+
+  <!-- <img src="https://img.shields.io/github/followers/DashginAsgarli?style=for-the-badge&color=3FB950&labelColor=238636&logo=github&label=Followers" /> -->
 </p>
 
 <br/>
