@@ -24,14 +24,10 @@
   </a>
 </p>
 
-<p align="center">
-
-  <!-- <img src="https://img.shields.io/github/followers/DashginAsgarli?style=for-the-badge&color=3FB950&labelColor=238636&logo=github&label=Followers" /> -->
-</p>
 
 <br/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."*
 </div>
 
 ---
