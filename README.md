@@ -76,7 +76,7 @@ I work with data — from cleaning and exploration to building predictive models
 
 ---
 
-## GitHub Stats
+<!--  ## GitHub Stats
 
 <div align="center">
 
@@ -84,9 +84,8 @@ I work with data — from cleaning and exploration to building predictive models
 
 <br/>
 
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DashginAsgarli&bg_color=0d1117&color=58A6FF&line=3FB950&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
-
+ -->
