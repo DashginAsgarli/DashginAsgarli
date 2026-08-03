@@ -62,24 +62,12 @@ I work with data — from cleaning and exploration to building predictive models
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  <!--  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3B7A57?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+  <!--  
+![XGBoost](https://img.shields.io/badge/XGBoost-3B7A57?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ---
-
-<!--  ## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DashginAsgarli&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" height="170" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DashginAsgarli&bg_color=0d1117&color=58A6FF&line=3FB950&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
 
  -->
