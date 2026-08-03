@@ -2,39 +2,26 @@
 
 <h1>Hi, I'm Dashgin Asgarli 👋</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Web+Developer;Data+Science+%26+ML+Explorer;React+%7C+Node.js+%7C+Python+%7C+SQL;Building+products+%26+finding+patterns+%F0%9F%93%8A" alt="Roles" />
-</a>
+<h3>Data Science &nbsp;|&nbsp; Frontend Developer</h3>
 
-<br/><br/>
+<br/>
 <p align="center">
-  <a href="https://jovial-unicorn-4a4245.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5C5C?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/dashgin-asgarli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dashqinasgarli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-3FB950?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
   <a href="https://wakatime.com/@59e7d53c-bb06-4c76-a48e-2f7ed7fed6d5" target="_blank">
     <img src="https://wakatime.com/badge/user/59e7d53c-bb06-4c76-a48e-2f7ed7fed6d5.svg?style=for-the-badge" />
   </a>
 </p>
 
-
-<br/>
-
-*"First, solve the problem. Then, write the code."*
 </div>
+
+
+## About Me
+
+Having transitioned from Web Development to Data Science, I combine my web development experience with growing expertise in data analysis and machine learning. Currently open to full-time and remote opportunities in both Frontend Development and Data Science.
 
 ---
 
 ## Web Development
-
-Full Stack Developer building modern, responsive, and scalable web applications. Focused on clean architecture, performance, and seamless user experience.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,28 +33,18 @@ Full Stack Developer building modern, responsive, and scalable web applications.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## Data Science
 
-I work with data — from cleaning and exploration to building predictive models and visualizing insights. Bridging data science with real web products.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-  <!--  
-![XGBoost](https://img.shields.io/badge/XGBoost-3B7A57?style=for-the-badge&logo=python&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
----
-
- -->
